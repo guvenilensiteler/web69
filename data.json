@@ -533,12 +533,28 @@
             "sort": "4"
           },
           {
-            "site": "amgbahis",
+            "site": "grandpashabet",
             "sort": "5"
           },
           {
-            "site": "mersobahis",
+            "site": "palazzobet",
             "sort": "6"
+          },
+          {
+            "site": "dedebet",
+            "sort": "7"
+          },
+          {
+            "site": "venombet",
+            "sort": "8"
+          },
+          {
+            "site": "amgbahis",
+            "sort": "9"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "10"
           }
         ]
       },
