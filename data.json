@@ -53,7 +53,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://primebahis2.wiki/MgDpdie",
+        "url": "https://cutt.ly/emreonline",
         "desc": [
           "444FS DENEME BONUSU"
         ],
@@ -61,7 +61,7 @@
         "sort": null,
         "color": "#1a98ff",
         "miktar": "444FS",
-        "promo_code": null,
+        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "%100 İADE BONUSU | ERTESİ GÜN FREESPİNLERİ",
         "slider_img": ""
       },
@@ -528,6 +528,10 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
+          {
+            "site": "primebahis",
+            "sort": "0"
+          },
           {
             "site": "tipobet",
             "sort": "1"
