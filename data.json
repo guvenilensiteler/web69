@@ -61,7 +61,6 @@
         "sort": null,
         "color": "#1a98ff",
         "miktar": "4444FS",
-        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "min 100 tl yatırım | ERTESİ GÜN FREESPİNLERİ",
         "slider_img": ""
       },
@@ -245,6 +244,7 @@
         "sort": null,
         "color": "#adf01f",
         "miktar": "₺1.000",
+        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "ÜYE OL BONUSUNU AL",
         "slider_img": ""
       },
@@ -257,6 +257,7 @@
         "sort": null,
         "color": "#48effa",
         "miktar": "₺1.000",
+        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "",
         "slider_img": ""
       },
@@ -269,6 +270,7 @@
         "sort": null,
         "color": "#fb0009",
         "miktar": "₺1.000",
+        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "",
         "slider_img": ""
       },
@@ -297,7 +299,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/UtwIvf6a",
+        "url": "https://cutt.ly/krfvHUaq",
         "desc": [
           "750 TL & 750 FREE SPIN DENEME BONUSU"
         ],
@@ -305,6 +307,7 @@
         "sort": null,
         "color": "#b910a1",
         "miktar": "₺750",
+        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "",
         "slider_img": ""
       },
@@ -389,6 +392,7 @@
         "sort": null,
         "color": "#ff003c",
         "miktar": "₺1.000",
+        "elmas": "ana-sponsor.webp",
         "promo_code": null,
         "slider_img": ""
       },
@@ -401,11 +405,12 @@
         "sort": null,
         "color": "#ff7400",
         "miktar": "₺666",
+        "elmas": "ana-sponsor.webp",
         "promo_code": null,
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/Emrevenom",
+        "url": "https://cutt.ly/ercuvnm",
         "desc": [
           "ÜYE OL, BONUSU AL"
         ],
@@ -530,56 +535,59 @@
         "sites": [
           {
             "site": "primebahis",
-            "sort": "0"
-          },
-          {
-            "site": "tipobet",
             "sort": "1"
           },
           {
-            "site": "sahabet",
+            "site": "onwin",
             "sort": "2"
           },
           {
-            "site": "starzbet",
+            "site": "fixbet",
             "sort": "3"
           },
           {
-            "site": "ramadabet",
+            "site": "zbahis",
             "sort": "4"
           },
           {
-            "site": "bayspin",
+            "site": "matadorbet",
             "sort": "5"
           },
           {
-            "site": "bahibom",
+            "site": "solobet",
             "sort": "6"
           },
           {
-            "site": "grandpashabet",
+            "site": "supertotobet",
             "sort": "7"
           },
           {
-            "site": "palazzobet",
+            "site": "dedebet",
             "sort": "8"
           },
           {
-            "site": "dedebet",
+            "site": "palazzobet",
             "sort": "9"
           },
           {
-            "site": "venombet",
+            "site": "bahibom",
             "sort": "10"
           },
-
           {
-            "site": "amgbahis",
+            "site": "venombet",
+            "sort": "11"
+          },
+          {
+            "site": "grandpashabet",
             "sort": "12"
           },
           {
-            "site": "mersobahis",
+            "site": "amgbahis",
             "sort": "13"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "14"
           }
         ]
       },
