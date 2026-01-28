@@ -125,7 +125,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/NrH49APA",
+        "url": "https://cutt.ly/ctxjMZOX",
         "desc": [
           "750₺ DENEME BONUSU"
         ],
@@ -562,32 +562,36 @@
             "sort": "7"
           },
           {
-            "site": "dedebet",
+            "site": "bahiscom",
             "sort": "8"
           },
           {
-            "site": "palazzobet",
+            "site": "dedebet",
             "sort": "9"
           },
           {
-            "site": "bahibom",
+            "site": "palazzobet",
             "sort": "10"
           },
           {
-            "site": "venombet",
+            "site": "bahibom",
             "sort": "11"
           },
           {
-            "site": "grandpashabet",
+            "site": "venombet",
             "sort": "12"
           },
           {
-            "site": "amgbahis",
+            "site": "grandpashabet",
             "sort": "13"
           },
           {
-            "site": "mersobahis",
+            "site": "amgbahis",
             "sort": "14"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "15"
           }
         ]
       },
