@@ -533,10 +533,7 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-          {
-            "site": "primebahis",
-            "sort": "1"
-          },
+
           {
             "site": "onwin",
             "sort": "2"
@@ -561,10 +558,7 @@
             "site": "supertotobet",
             "sort": "7"
           },
-          {
-            "site": "bahiscom",
-            "sort": "8"
-          },
+
           {
             "site": "dedebet",
             "sort": "9"
