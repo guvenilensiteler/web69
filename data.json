@@ -244,7 +244,6 @@
         "sort": null,
         "color": "#adf01f",
         "miktar": "₺1.000",
-        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "ÜYE OL BONUSUNU AL",
         "slider_img": ""
       },
@@ -257,7 +256,6 @@
         "sort": null,
         "color": "#48effa",
         "miktar": "₺666",
-        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "",
         "slider_img": ""
       },
@@ -270,7 +268,6 @@
         "sort": null,
         "color": "#fb0009",
         "miktar": "₺1.000",
-        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "",
         "slider_img": ""
       },
@@ -333,6 +330,7 @@
         "sort": null,
         "color": "#008000",
         "miktar": "₺1.000",
+        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "YATIRIM ŞARTSIZ 1.000 TL ÇEKİM YAP",
         "slider_img": ""
       },
@@ -393,7 +391,6 @@
         "sort": null,
         "color": "#ff003c",
         "miktar": "₺1.000",
-        "elmas": "ana-sponsor.webp",
         "promo_code": null,
         "slider_img": ""
       },
@@ -406,7 +403,6 @@
         "sort": null,
         "color": "#ff7400",
         "miktar": "₺1.000",
-        "elmas": "ana-sponsor.webp",
         "promo_code": null,
         "slider_img": ""
       },
@@ -444,6 +440,55 @@
         "color": "#b60d83",
         "miktar": "₺1.000",
         "promo_code_yok": "",
+        "slider_img": ""
+      },
+      {
+        "url": "https://prod.fgtrack.net/click?domain=mistycasino.com&uid=id2oDMzn",
+        "desc": [
+          "İLK YATIRIMA ÖZEL %100"
+        ],
+        "site": "misty",
+        "sort": null,
+        "color": "#ffe93f",
+        "miktar": "₺1.000",
+        "elmas": "ana-sponsor.webp",
+        "promo_code_yok": "HOŞGELDİN BONUSU | RTP ORANI YÜKSEK SİTE",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapxanubis",
+        "desc": [
+          "250₺ RİSKSİZ DENEME BONUSU"
+        ],
+        "site": "sloto",
+        "sort": null,
+        "color": "#fcbc00",
+        "miktar": "₺250",
+        "promo_code_yok": "HER YATIRIMA ÖZEL FREESPIN HEDİYE",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapleo",
+        "desc": [
+          "YATIRIM ŞARTSIZ 1000TL DENEME BONUSU"
+        ],
+        "site": "leogrand",
+        "sort": null,
+        "color": "#dea736",
+        "miktar": "₺1.000",
+        "promo_code_yok": "4 YATIRIM YAP 5. YATIRIMIN BİZDEN",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bsinplus.com/sin252",
+        "desc": [
+          "%300 HOŞGELDİN BONUSU"
+        ],
+        "site": "betsin",
+        "sort": null,
+        "color": "#f99100",
+        "miktar": "₺2.500",
+        "promo_code_yok": "3 YATIRIM YAP, 1 YATIRIM BİZDEN!",
         "slider_img": ""
       }
     ],
@@ -543,53 +588,73 @@
             "sort": "2"
           },
           {
-            "site": "fixbet",
+            "site": "sahabet",
             "sort": "3"
           },
           {
-            "site": "zbahis",
+            "site": "misty",
             "sort": "4"
           },
           {
-            "site": "matadorbet",
+            "site": "sloto",
             "sort": "5"
           },
           {
-            "site": "solobet",
+            "site": "betsin",
             "sort": "6"
           },
           {
-            "site": "supertotobet",
-            "sort": "7"
-          },
-
-          {
-            "site": "dedebet",
-            "sort": "9"
-          },
-          {
             "site": "palazzobet",
-            "sort": "10"
+            "sort": "7"
           },
           {
             "site": "bahibom",
+            "sort": "8"
+          },
+          {
+            "site": "leogrand",
+            "sort": "9"
+          },
+
+          {
+            "site": "fixbet",
+            "sort": "10"
+          },
+          {
+            "site": "zbahis",
             "sort": "11"
           },
           {
-            "site": "venombet",
+            "site": "matadorbet",
             "sort": "12"
           },
           {
-            "site": "grandpashabet",
+            "site": "solobet",
             "sort": "13"
           },
           {
-            "site": "amgbahis",
+            "site": "supertotobet",
             "sort": "14"
           },
           {
-            "site": "mersobahis",
+            "site": "dedebet",
             "sort": "15"
+          },
+          {
+            "site": "venombet",
+            "sort": "16"
+          },
+          {
+            "site": "grandpashabet",
+            "sort": "17"
+          },
+          {
+            "site": "amgbahis",
+            "sort": "18"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "19"
           }
         ]
       },
